@@ -1,0 +1,2 @@
+FLASK_APP=detection.py
+FLASK_ENV=development

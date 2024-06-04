@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "express": "^4.18.2",
+    "face-api.js": "^0.22.2",
+    "mixer": "^0.0.9",
+    "socket.io": "^4.7.4"
+  }
+}
